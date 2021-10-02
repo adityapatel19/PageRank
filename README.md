@@ -4,3 +4,6 @@ I have implemented a Page Rank algorithm using four different approaches.
 2.  Using MPI_Allreduce
 3.  Using MPI_Allgather 
 4.  Using MPI_Irecv and MPI_Isend
+
+
+You can run my code with data file which I have uploaded in Graph folder.
